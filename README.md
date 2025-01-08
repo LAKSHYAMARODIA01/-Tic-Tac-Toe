@@ -16,7 +16,7 @@ Tic Tac Toe is a simple console-based game for two players, where players take t
    
 2. **Clone the Repository**: Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/LAKSHYAMARODIA01/-Tic-Tac-Toe.git
    ```
 
 3. **Navigate to the Project Directory**:
